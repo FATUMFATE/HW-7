@@ -1,8 +1,4 @@
-/* .red {
-  color: red;
-} */
-
-a[href^="https"] {
+sa[href^="https"] {
   color: red;
 }
 
